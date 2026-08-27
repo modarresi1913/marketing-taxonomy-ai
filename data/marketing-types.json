@@ -1,0 +1,1880 @@
+{
+  "version": "1.0.0",
+  "name": "Marketing Taxonomy AI",
+  "description": "The definitive open-source classification of 228 marketing types across 4 hierarchical levels",
+  "lastUpdated": "2025-08-27",
+  "contribute": "https://github.com/modarresi1913/marketing-taxonomy-ai/blob/main/CONTRIBUTING.md",
+  "stats": {
+    "total": 228,
+    "core": 150,
+    "extended": 46,
+    "emerging": 32,
+    "withExamples": 8
+  },
+  "marketingTypes": [
+    {
+      "id": 1,
+      "name": "Account-Based Marketing (ABM)",
+      "category": "B2B Strategic",
+      "tier": "core",
+      "status": "Verified",
+      "examples": [
+        {
+          "brand": "GumGum → T-Mobile",
+          "description": "Created a custom comic book casting T-Mobile's CEO as a superhero called 'T-Man' who saves his city from bad cell service. The CEO tweeted about it, leading GumGum to win the T-Mobile account."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Affiliate Marketing",
+      "category": "Performance/Channel",
+      "tier": "core",
+      "status": "Verified",
+      "examples": [
+        {
+          "brand": "General Electric",
+          "description": "Launched 'GE Reports,' an online magazine with stunning visuals about jet engines and wind turbines, transforming a B2B industrial conglomerate into a compelling media brand."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Agile Marketing",
+      "category": "Process/Methodology",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 4,
+      "name": "Algorithmic Marketing",
+      "category": "Data/AI",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 5,
+      "name": "Ambush Marketing",
+      "category": "Event/Disruptive",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 6,
+      "name": "Analytical Marketing",
+      "category": "Data Science",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 7,
+      "name": "Article Marketing",
+      "category": "Content/SEO",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 8,
+      "name": "B2B Marketing",
+      "category": "Business Model",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 9,
+      "name": "B2C Marketing",
+      "category": "Business Model",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 10,
+      "name": "B2P Marketing",
+      "category": "Business Model",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 11,
+      "name": "Behavioral Marketing",
+      "category": "Data/Psychology",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 12,
+      "name": "Unethical Marketing",
+      "category": "Ethics/Risk",
+      "tier": "core",
+      "status": "Renamed",
+      "examples": []
+    },
+    {
+      "id": 13,
+      "name": "Brand Marketing",
+      "category": "Strategic",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 14,
+      "name": "Buzz Marketing",
+      "category": "Viral/Word-of-Mouth",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 15,
+      "name": "Call Center Marketing",
+      "category": "Direct/Operations",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 16,
+      "name": "Campus Marketing",
+      "category": "Geo/Demographic",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 17,
+      "name": "Catalog Marketing",
+      "category": "Direct/Retail",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 18,
+      "name": "Cause Marketing",
+      "category": "Purpose/Ethics",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 19,
+      "name": "Celebrity Marketing",
+      "category": "Influencer/PR",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 20,
+      "name": "Channel Marketing",
+      "category": "Distribution/B2B",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 21,
+      "name": "Closed-Loop Marketing",
+      "category": "Process/Analytics",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 22,
+      "name": "Cloud Marketing (SaaS)",
+      "category": "Technology/Infrastructure",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 23,
+      "name": "Cooperative Marketing",
+      "category": "Partnership",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 24,
+      "name": "Communal Marketing",
+      "category": "Community",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 25,
+      "name": "Community Marketing",
+      "category": "Community",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 26,
+      "name": "Computational Marketing",
+      "category": "Data/AI",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 27,
+      "name": "Content Marketing",
+      "category": "Content/Strategic",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 28,
+      "name": "Contextual Marketing",
+      "category": "Content/Personalization",
+      "tier": "core",
+      "status": "Verified",
+      "examples": [
+        {
+          "brand": "Coca-Cola",
+          "description": "'Happiness Machine' placed a special vending machine on a college campus dispensing free Cokes, flowers, and pizza. The video went viral with millions of views at a fraction of traditional ad costs."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Controversial Marketing",
+      "category": "Attention/Viral",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 30,
+      "name": "Conversational Marketing",
+      "category": "Engagement/Chat",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 31,
+      "name": "Conversion Rate Marketing",
+      "category": "Performance/Analytics",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 32,
+      "name": "Conversion Content Marketing",
+      "category": "Content/Performance",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 33,
+      "name": "Corporate Marketing",
+      "category": "Organizational",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 34,
+      "name": "Cross Marketing",
+      "category": "Partnership/Channel",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 35,
+      "name": "Culture Marketing",
+      "category": "Geo/Demographic",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 36,
+      "name": "Data Web Marketing",
+      "category": "Data/Internet",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 37,
+      "name": "Database Marketing",
+      "category": "Data/Direct",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 38,
+      "name": "Data-Driven Marketing",
+      "category": "Data/Analytics",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 39,
+      "name": "Digital Marketing",
+      "category": "Channel/Strategic",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 40,
+      "name": "Direct Marketing",
+      "category": "Channel/Direct",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 41,
+      "name": "Direct Response Marketing",
+      "category": "Performance/Direct",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 42,
+      "name": "Disruptive Marketing",
+      "category": "Strategic/Innovation",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 43,
+      "name": "Diversity Marketing",
+      "category": "Demographic/Ethics",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 44,
+      "name": "Door-to-Door Marketing",
+      "category": "Field/Direct",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 45,
+      "name": "Drip Marketing",
+      "category": "Automation/Email",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 46,
+      "name": "Email Marketing",
+      "category": "Channel/Digital",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 47,
+      "name": "Entrepreneurial Marketing",
+      "category": "Strategic/SME",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 48,
+      "name": "Ethical Marketing",
+      "category": "Ethics/Brand",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 49,
+      "name": "Event Marketing",
+      "category": "Experiential",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 50,
+      "name": "Expeditionary Marketing",
+      "category": "Speed/Aggressive",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 51,
+      "name": "Experiential Marketing",
+      "category": "Experiential/Sensory",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 52,
+      "name": "Social Media Marketing",
+      "category": "Channel/Digital",
+      "tier": "core",
+      "status": "Merged",
+      "examples": []
+    },
+    {
+      "id": 53,
+      "name": "Field Marketing",
+      "category": "Field/Direct",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 54,
+      "name": "Geo-Marketing",
+      "category": "Location/Tech",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 55,
+      "name": "Global Marketing",
+      "category": "International/Strategic",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 56,
+      "name": "Green Marketing",
+      "category": "Sustainability",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 57,
+      "name": "Guerrilla Marketing",
+      "category": "Creative/Low-Budget",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 58,
+      "name": "Horizontal Marketing",
+      "category": "Partnership/Channel",
+      "tier": "core",
+      "status": "Verified",
+      "examples": [
+        {
+          "brand": "Daniel Wellington",
+          "description": "Grew from startup to $200M+ by gifting watches to thousands of Instagram micro-influencers who posted photos with discount codes, building the brand almost entirely through social media."
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Inbound Marketing",
+      "category": "Pull/Strategic",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 60,
+      "name": "Industrial Marketing",
+      "category": "B2B/Sector",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 61,
+      "name": "Influencer Marketing",
+      "category": "Social/PR",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 62,
+      "name": "Informational Marketing",
+      "category": "Content/Education",
+      "tier": "core",
+      "status": "Verified",
+      "examples": [
+        {
+          "brand": "Volkswagen",
+          "description": "'The Force' Super Bowl ad featured a boy in a Darth Vader costume trying to use the Force on household objects. Shared tens of millions of times, becoming one of the most shared commercials ever."
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "In-Game Marketing",
+      "category": "Gaming/AdTech",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 64,
+      "name": "In-Store Marketing",
+      "category": "Retail/Phygital",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 65,
+      "name": "Integrated Marketing",
+      "category": "Strategic/Omnichannel",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 66,
+      "name": "Interactive Marketing",
+      "category": "Engagement/Tech",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 67,
+      "name": "Internet Marketing",
+      "category": "Channel/Digital",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 68,
+      "name": "Internal Marketing",
+      "category": "Organizational/HR",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 69,
+      "name": "International Marketing",
+      "category": "Global/Strategic",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 70,
+      "name": "Keyword Marketing",
+      "category": "SEO/Search",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 71,
+      "name": "Left-Brain Marketing",
+      "category": "Data/Science",
+      "tier": "core",
+      "status": "Removed",
+      "examples": []
+    },
+    {
+      "id": 72,
+      "name": "Local Marketing",
+      "category": "Geo/Local",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 73,
+      "name": "Long-Tail Marketing",
+      "category": "SEO/Niche",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 74,
+      "name": "Loyalty Marketing",
+      "category": "Relational/Retention",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 75,
+      "name": "Mobile Marketing",
+      "category": "Channel/Tech",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 76,
+      "name": "Multichannel Marketing",
+      "category": "Channel/Strategic",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 77,
+      "name": "Multicultural Marketing",
+      "category": "Demographic/Culture",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 78,
+      "name": "Multi-Level Marketing (MLM)",
+      "category": "Distribution/Network",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 79,
+      "name": "Neuro Marketing",
+      "category": "Biometric/Science",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 80,
+      "name": "New Media Marketing",
+      "category": "Channel/Media",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 81,
+      "name": "Newsletter Marketing",
+      "category": "Content/Email",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 82,
+      "name": "Niche Marketing",
+      "category": "Segmentation/Strategy",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 83,
+      "name": "Non-Traditional Marketing",
+      "category": "Creative/Alternative",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 84,
+      "name": "Traditional Marketing",
+      "category": "Channel/Classic",
+      "tier": "core",
+      "status": "Merged",
+      "examples": []
+    },
+    {
+      "id": 85,
+      "name": "One-to-One Marketing",
+      "category": "Personalization/Direct",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 86,
+      "name": "Online Marketing",
+      "category": "Channel/Digital",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 87,
+      "name": "Outbound Marketing",
+      "category": "Push/Broadcast",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 88,
+      "name": "Outdoor Marketing",
+      "category": "Channel/Physical",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 89,
+      "name": "Out-of-Home (OOH) Marketing",
+      "category": "Channel/Physical",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 90,
+      "name": "Performance Marketing",
+      "category": "Metrics/ROI",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 91,
+      "name": "Permission Marketing",
+      "category": "Ethics/Pull",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 92,
+      "name": "Personalized Marketing",
+      "category": "Data/Personalization",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 93,
+      "name": "Persuasion Marketing",
+      "category": "Psychology/Influence",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 94,
+      "name": "Point-of-Sale (POS) Marketing",
+      "category": "Retail/Trigger",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 95,
+      "name": "Post-Click Marketing",
+      "category": "Analytics/Conversion",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 96,
+      "name": "Pay-Per-Click (PPC) Marketing",
+      "category": "Paid/Search",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 97,
+      "name": "Product Marketing",
+      "category": "Product/Go-to-Market",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 98,
+      "name": "Promotional Marketing",
+      "category": "Sales/Tactical",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 99,
+      "name": "Proximity Marketing",
+      "category": "Location/Tech",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 100,
+      "name": "Pull Marketing",
+      "category": "Strategic/Attraction",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 101,
+      "name": "Push Marketing",
+      "category": "Strategic/Broadcast",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 102,
+      "name": "Real-Time Marketing",
+      "category": "Speed/Context",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 103,
+      "name": "Referral Marketing",
+      "category": "Network/Trust",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 104,
+      "name": "Relationship Marketing",
+      "category": "Relational/Strategic",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 105,
+      "name": "Remarketing",
+      "category": "Retargeting/Digital",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 106,
+      "name": "Reply Marketing",
+      "category": "Engagement/Feedback",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 107,
+      "name": "Scientific Marketing",
+      "category": "Research/Methodology",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 108,
+      "name": "Search Engine Marketing (SEM)",
+      "category": "Search/Paid",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 109,
+      "name": "Self Marketing",
+      "category": "Personal Brand",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 110,
+      "name": "Service Marketing",
+      "category": "Service/Sector",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 111,
+      "name": "Shadow Marketing",
+      "category": "Competitive/Espionage",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 112,
+      "name": "Shopper Marketing",
+      "category": "Retail/Behavior",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 113,
+      "name": "Social Marketing",
+      "category": "Purpose/Non-Profit",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 114,
+      "name": "Social Media Marketing",
+      "category": "Channel/Digital",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 115,
+      "name": "Sports Marketing",
+      "category": "Sector/Event",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 116,
+      "name": "Stealth Marketing",
+      "category": "Ethics/Covert",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 117,
+      "name": "Street Marketing",
+      "category": "Field/Guerrilla",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 118,
+      "name": "Technical Marketing",
+      "category": "B2B/Product",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 119,
+      "name": "Telemarketing",
+      "category": "Direct/Channel",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 120,
+      "name": "Test-Driven Marketing",
+      "category": "Agile/Process",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 121,
+      "name": "Time Marketing",
+      "category": "Temporal/Context",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 122,
+      "name": "Trade Show Marketing",
+      "category": "B2B/Event",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 123,
+      "name": "Traditional Marketing",
+      "category": "Channel/Classic",
+      "tier": "core",
+      "status": "Merged",
+      "examples": []
+    },
+    {
+      "id": 124,
+      "name": "Undercover Marketing",
+      "category": "Ethics/Covert",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 125,
+      "name": "User-Generated Marketing",
+      "category": "Content/Community",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 126,
+      "name": "Vertical Marketing",
+      "category": "Industry/Sector",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 127,
+      "name": "Video Marketing",
+      "category": "Content/Channel",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 128,
+      "name": "Viral Marketing",
+      "category": "Network/Organic",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 129,
+      "name": "Web Marketing",
+      "category": "Channel/Digital",
+      "tier": "core",
+      "status": "Verified",
+      "examples": [
+        {
+          "brand": "Dropbox",
+          "description": "Referral program offered 500MB extra storage to both parties. Grew from 100K to 4M users in 15 months — a 3,900% increase driven almost entirely by word of mouth."
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Word-of-Mouth Marketing",
+      "category": "Trust/Network",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 131,
+      "name": "Youth Marketing",
+      "category": "Demographic/Age",
+      "tier": "core",
+      "status": "Verified",
+      "examples": [
+        {
+          "brand": "Salesforce Agentforce",
+          "description": "Deploys autonomous AI agents that independently handle campaign planning, audience segmentation, and content personalization 24/7 with minimal human oversight."
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "name": "Reverse Marketing",
+      "category": "Demand/Procurement",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 133,
+      "name": "Viral Loop Marketing",
+      "category": "Digital/Network",
+      "tier": "core",
+      "status": "Merged",
+      "examples": []
+    },
+    {
+      "id": 134,
+      "name": "Lead Marketing",
+      "category": "Funnel/Acquisition",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 135,
+      "name": "Thought Leadership Marketing",
+      "category": "B2B/Content",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 136,
+      "name": "Public Sector Marketing",
+      "category": "Government/Non-Profit",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 137,
+      "name": "S2B Marketing",
+      "category": "Academic/Transfer",
+      "tier": "core",
+      "status": "Renamed",
+      "examples": []
+    },
+    {
+      "id": 138,
+      "name": "Transactional Marketing",
+      "category": "Sales/Short-term",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 139,
+      "name": "Above-the-Line (ATL) Marketing",
+      "category": "Mass/Media",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 140,
+      "name": "Affinity Marketing",
+      "category": "Partnership/Trust",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 141,
+      "name": "Augmented Marketing",
+      "category": "Tech/Enhancement",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 142,
+      "name": "Below-the-Line (BTL) Marketing",
+      "category": "Targeted/Direct",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 143,
+      "name": "Brick-and-Mortar Marketing",
+      "category": "Retail/Physical",
+      "tier": "core",
+      "status": "Renamed",
+      "examples": []
+    },
+    {
+      "id": 144,
+      "name": "Call-to-Action (CTA) Marketing",
+      "category": "Conversion/Tactical",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 145,
+      "name": "Close Range Marketing",
+      "category": "Proximity/Tech",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 146,
+      "name": "Concentrated Marketing",
+      "category": "Segmentation/Focus",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 147,
+      "name": "Consumer Marketing",
+      "category": "B2C/Sector",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 148,
+      "name": "Cross-Media Marketing",
+      "category": "Channel/Integration",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 149,
+      "name": "De-Marketing",
+      "category": "Scarcity/Reduction",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 150,
+      "name": "Defensive Marketing",
+      "category": "Competitive/Retention",
+      "tier": "core",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 151,
+      "name": "Direct Mail Marketing",
+      "category": "Direct/Physical",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 152,
+      "name": "E-Commerce Marketing",
+      "category": "Channel/Digital",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 153,
+      "name": "Ethnic Marketing",
+      "category": "Demographic/Culture",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 154,
+      "name": "Flanking Marketing",
+      "category": "Competitive/Strategy",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 155,
+      "name": "Free Sample Marketing",
+      "category": "Trial/Acquisition",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 156,
+      "name": "Goods Marketing",
+      "category": "Product/Category",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 157,
+      "name": "Humanistic Marketing",
+      "category": "Ethics/Philosophy",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 158,
+      "name": "Mass Marketing",
+      "category": "Broadcast/Scale",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 159,
+      "name": "Mega Marketing",
+      "category": "Macro/Political",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 160,
+      "name": "Network Marketing",
+      "category": "Distribution/People",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 161,
+      "name": "Next Best Action (NBA) Marketing",
+      "category": "AI/Predictive",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 162,
+      "name": "Offensive Marketing",
+      "category": "Competitive/Aggressive",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 163,
+      "name": "Organizational Marketing",
+      "category": "B2B/Institutional",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 164,
+      "name": "Partnership Marketing",
+      "category": "Strategic/Alliance",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 165,
+      "name": "Person Marketing",
+      "category": "Personal/Individual",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 166,
+      "name": "PR Marketing",
+      "category": "Communications/Brand",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 167,
+      "name": "Retail Marketing",
+      "category": "Sector/Channel",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 168,
+      "name": "Scarcity Marketing",
+      "category": "Psychology/Urgency",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 169,
+      "name": "Seasonal Marketing",
+      "category": "Temporal/Context",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 170,
+      "name": "Shotgun Marketing",
+      "category": "Mass/Untargeted",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 171,
+      "name": "Synchro Marketing",
+      "category": "Supply/Demand Balance",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 172,
+      "name": "Targeted Marketing",
+      "category": "Segmentation/Precision",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 173,
+      "name": "Trade Marketing",
+      "category": "B2B/Channel",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 174,
+      "name": "Voice Marketing",
+      "category": "Channel/Emerging",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 175,
+      "name": "Duct Tape Marketing",
+      "category": "SME/Methodology",
+      "tier": "extended",
+      "status": "Removed",
+      "examples": []
+    },
+    {
+      "id": 176,
+      "name": "Augmented Reality (AR) Marketing",
+      "category": "Tech/Immersive",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 177,
+      "name": "Small Business Digital Marketing",
+      "category": "SME/Sector",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 178,
+      "name": "360\\u00b0 Marketing",
+      "category": "Integrated/Full-Funnel",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 179,
+      "name": "Live Chat Marketing",
+      "category": "Engagement/Real-time",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 180,
+      "name": "Chatbot Marketing",
+      "category": "Automation/AI",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 181,
+      "name": "Pragmatic Marketing",
+      "category": "Methodology/Product",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 182,
+      "name": "Virtual Marketing",
+      "category": "Metaverse/Digital",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 183,
+      "name": "Bluetooth Marketing",
+      "category": "Proximity/Tech",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 184,
+      "name": "Threaded Marketing",
+      "category": "Content/Structure",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 185,
+      "name": "Conversion-Led Marketing",
+      "category": "Funnel/Performance",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 186,
+      "name": "Product Lifecycle Marketing",
+      "category": "Strategic/Timing",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 187,
+      "name": "Below-the-Line (BTL) Marketing II",
+      "category": "Targeted",
+      "tier": "extended",
+      "status": "Merged",
+      "examples": []
+    },
+    {
+      "id": 188,
+      "name": "Hunger Marketing",
+      "category": "Scarcity/Anticipation",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 189,
+      "name": "Outsource Marketing",
+      "category": "Operations/Strategy",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 190,
+      "name": "Heritage Marketing",
+      "category": "Brand/History",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 191,
+      "name": "Meta Marketing",
+      "category": "Self-Referential/Theory",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 192,
+      "name": "Destination Marketing",
+      "category": "Tourism/Geo",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 193,
+      "name": "Visual Marketing",
+      "category": "Content/Design",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 194,
+      "name": "Video Marketing II",
+      "category": "Content/Channel",
+      "tier": "extended",
+      "status": "Merged",
+      "examples": []
+    },
+    {
+      "id": 195,
+      "name": "Right-Time Marketing",
+      "category": "Context/Temporal",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 196,
+      "name": "Recruitment Marketing",
+      "category": "HR/Employer Brand",
+      "tier": "extended",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 197,
+      "name": "Agentic Marketing",
+      "category": "AI/Autonomous",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 198,
+      "name": "GEO (Generative Engine Optimization)",
+      "category": "AI/Search",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": [
+        {
+          "brand": "Li Jiaqi on Taobao Live",
+          "description": "Sold 15,000 lipsticks in 5 minutes and generated $1.9B in pre-sales during a single 2021 Singles' Day session, demonstrating the massive revenue potential of livestream selling."
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "name": "Phygital Marketing",
+      "category": "Experiential/Tech",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 200,
+      "name": "Web3 / Tokenized Marketing",
+      "category": "Blockchain/Decentralized",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 201,
+      "name": "AI-Augmented Marketing",
+      "category": "AI/Biometric",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 202,
+      "name": "PLG (Product-Led Growth) Marketing",
+      "category": "SaaS/Business Model",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 203,
+      "name": "Subscription Economy Marketing",
+      "category": "Recurring/Business Model",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 204,
+      "name": "Sequenced Solution Marketing",
+      "category": "Solution/Customer Journey",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 205,
+      "name": "Livestream Commerce Marketing",
+      "category": "Social/Commerce",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 206,
+      "name": "EGC (Employee-Generated Content) Marketing",
+      "category": "Internal/Authentic Influencer",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 207,
+      "name": "Conversational Commerce Marketing",
+      "category": "Messaging/AI",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 208,
+      "name": "Social Commerce Marketing",
+      "category": "Social/Native Checkout",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 209,
+      "name": "Gamification Marketing",
+      "category": "Engagement/Behavioral",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 210,
+      "name": "Hyper-Personalized Marketing",
+      "category": "AI/Real-time",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 211,
+      "name": "Predictive Marketing",
+      "category": "Data/Forecasting",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 212,
+      "name": "First-Party Data Marketing",
+      "category": "Privacy/Post-Cookie",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 213,
+      "name": "BRAVE Marketing",
+      "category": "Tech/Framework",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 214,
+      "name": "SDM (Sustainable Digital Marketing)",
+      "category": "Sustainability/Academic",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 215,
+      "name": "Regenerative / Circular Marketing",
+      "category": "Sustainability/Beyond Green",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 216,
+      "name": "Purpose-Driven Marketing",
+      "category": "ESG/Brand",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 217,
+      "name": "Community-Led Growth Marketing",
+      "category": "Network/Organic",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 218,
+      "name": "Ecosystem Marketing",
+      "category": "Platform/Network",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 219,
+      "name": "Gen Alpha Marketing",
+      "category": "Demographic/Future",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 220,
+      "name": "Short-Form Video Marketing",
+      "category": "Content/TikTok/Shorts",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 221,
+      "name": "Zero-Click Marketing",
+      "category": "AI Search/SERP",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 222,
+      "name": "Audio/Podcast Marketing",
+      "category": "Channel/Emerging",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 223,
+      "name": "Privacy-First Marketing",
+      "category": "Compliance/Trust",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 224,
+      "name": "AI Emotion Marketing",
+      "category": "Biometric/Sentiment",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 225,
+      "name": "Autonomous Marketing",
+      "category": "AI/No-Code",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 226,
+      "name": "Omnichannel 2.0 Marketing",
+      "category": "Phygital/Unified",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 227,
+      "name": "Trust-Based Marketing",
+      "category": "Post-Trust/Transparency",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    },
+    {
+      "id": 228,
+      "name": "Quantum Marketing",
+      "category": "Future/Tech",
+      "tier": "emerging",
+      "status": "Verified",
+      "examples": []
+    }
+  ]
+}

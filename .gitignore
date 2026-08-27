@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+.pnp
+
+# Build
+.next/
+out/
+dist/
+
+# Environment
+.env*
+*.log
+
+# Database
+db/
+prisma/
+
+# Internal (not for GitHub)
+tool-results/
+upload/
+download/
+worklog.md
+skills/
+
+# Templates/infrastructure
+.zscripts/
+mini-services/
+tests/
+examples/
+Caddyfile
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Misc
+*.tsbuildinfo
+next-env.d.ts
+bun.lock
