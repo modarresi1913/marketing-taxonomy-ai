@@ -122,7 +122,7 @@ export const metadata: Metadata = {
   authors: [{ name: "modarresi1913", url: "https://github.com/modarresi1913" }],
   creator: "modarresi1913",
   publisher: "GitHub Open Source",
-  icons: { icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg" },
+  icons: { icon: "/logo.svg" },
   openGraph: {
     title: "Marketing Taxonomy AI — The Periodic Table of Marketing",
     description:
