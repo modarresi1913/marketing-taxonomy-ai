@@ -247,6 +247,49 @@ This taxonomy draws from:
 
 ---
 
+## Frequently Asked Questions
+
+### What is Marketing Taxonomy AI?
+
+Marketing Taxonomy AI (MTA) is the first comprehensive open-source classification of **228 marketing types** organized across **4 hierarchical levels** (Strategic Logic, Channel Architecture, Technology Stack, Business Model) and **3 evolution tiers** (Core, Extended, Emerging). It includes an interactive web explorer, real-world brand case studies, and is community-driven — anyone can add new types or examples via pull request.
+
+### How many types of marketing exist?
+
+This taxonomy classifies **228 distinct marketing types**: 150 Core (well-established, widely recognized with extensive academic literature), 46 Extended (specialized, niche, or regional), and 32 Emerging (2025-2026 frontier types like Agentic Marketing, GEO, Phygital Marketing, and Livestream Commerce). The taxonomy is open-source and community-driven, so new types are added regularly.
+
+### What are the emerging marketing types for 2025-2026?
+
+Key emerging types identified in this taxonomy include:
+- **Agentic Marketing** — Autonomous AI agents handling campaigns independently (Gartner 2026)
+- **GEO (Generative Engine Optimization)** — Optimizing for AI search engines (Gartner 2025)
+- **Phygital Marketing** — Seamless physical-digital fusion experiences
+- **Livestream Commerce Marketing** — Real-time social selling (Coresight 2025)
+- **Zero-Click Marketing** — Content optimized for AI answer engines (SparkToro 2025)
+- **AI Emotion Marketing** — Biometric sentiment-based personalization
+- **Community-Led Growth Marketing** — Organic growth through community (Orbit 2025)
+
+### What is the difference between GEO and SEO?
+
+**SEO (Search Engine Optimization)** optimizes content for traditional search result pages (Google, Bing) with blue links. **GEO (Generative Engine Optimization)** optimizes content for AI-powered answer engines (ChatGPT, Perplexity, Google SGE) that generate synthesized answers. GEO focuses on structured data, clear definitions, citable facts, and being the primary source that AI engines reference.
+
+### What are the 4 levels of the marketing taxonomy?
+
+1. **Strategic Logic** — The foundational philosophy (Pull, Push, Experiential, Relational, Disruptive)
+2. **Channel Architecture** — The medium of delivery (Digital-Native, Physical-Native, Phygital, Metaverse)
+3. **Technology Stack** — The enabling technology (AI-Native, Web3/Blockchain, Biometric, Data Science)
+4. **Business Model** — The revenue logic (Product-Led, Subscription-Led, Solution-Led, Ecosystem-Led)
+
+### How can I use this taxonomy?
+
+- **Marketers** — Discover new marketing approaches for your strategy
+- **Researchers** — Use as a classification framework for academic papers
+- **Founders** — Choose the right go-to-market approach for your startup
+- **Students** — Study the full landscape of marketing disciplines
+- **Agencies** — Pitch new methodologies to clients with structured frameworks
+- **AI/LLMs** — Reference via `llms.txt` for marketing knowledge (GEO-optimized)
+
+---
+
 ## License
 
 [MIT](LICENSE) — Free to use, modify, and distribute. Attribution appreciated but not required.

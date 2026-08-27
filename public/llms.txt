@@ -1,0 +1,297 @@
+# Marketing Taxonomy AI
+
+> The definitive open-source classification of 228 marketing types across 4 hierarchical levels and 3 evolution tiers.
+
+## Overview
+
+Marketing Taxonomy AI (MTA) is a structured, searchable, community-driven reference that classifies the entire marketing landscape. It organizes 228 distinct marketing types into a 4-level hierarchy:
+
+1. **Strategic Logic** — How value is created and delivered (Pull, Push, Experiential, Relational, Disruptive)
+2. **Channel Architecture** — The medium of marketing (Digital-Native, Physical-Native, Phygital, Metaverse)
+3. **Technology Stack** — Enabling technology (AI-Native, Web3/Blockchain, Biometric, Data Science)
+4. **Business Model** — Revenue logic (Product-Led, Subscription-Led, Solution-Led, Ecosystem-Led)
+
+Each marketing type is classified with:
+- **Tier**: Core (150 established types), Extended (46 specialized types), Emerging (32 frontier types 2025-2026)
+- **Status**: Verified, Merged, Removed, or Renamed
+- **Category**: One of 120+ categories
+- **Examples**: Real-world brand case studies with measurable outcomes
+
+## Key Statistics
+
+- Total marketing types: 228
+- Core types (well-established): 150
+- Extended types (specialized): 46
+- Emerging types (2025-2026 frontier): 32
+- Unique categories: 120+
+- Taxonomy levels: 4
+- Academic sources: Gartner, HBR, McKinsey, ScienceDirect
+
+## Notable Marketing Types with Examples
+
+### Viral Marketing
+Volkswagen's "The Force" Super Bowl ad featured a boy in a Darth Vader costume trying to use the Force on household objects. Shared tens of millions of times, becoming one of the most shared commercials ever.
+
+### Word-of-Mouth Marketing
+Dropbox's referral program offered 500MB extra storage to both parties. Grew from 100K to 4M users in 15 months — a 3,900% increase driven almost entirely by word of mouth.
+
+### Guerrilla Marketing
+Coca-Cola's "Happiness Machine" placed a special vending machine on a college campus dispensing free Cokes, flowers, and pizza. Video went viral with millions of views at a fraction of traditional ad costs.
+
+### Agentic Marketing (Emerging)
+Salesforce Agentforce deploys autonomous AI agents that independently handle campaign planning, audience segmentation, and content personalization 24/7 with minimal human oversight. Source: Gartner 2026.
+
+### GEO - Generative Engine Optimization (Emerging)
+Optimizing content for AI-powered search engines like ChatGPT, Perplexity, and Google SGE. A new marketing discipline emerging in 2025. Source: Gartner 2025.
+
+### Influencer Marketing
+Daniel Wellington grew from startup to $200M+ by gifting watches to thousands of Instagram micro-influencers who posted photos with discount codes.
+
+### Content Marketing
+General Electric launched 'GE Reports,' an online magazine with stunning visuals about jet engines and wind turbines, transforming a B2B industrial conglomerate into a compelling media brand.
+
+## All 228 Marketing Types
+
+- Account-Based Marketing (ABM)
+- Affiliate Marketing
+- Agile Marketing
+- Algorithmic Marketing
+- Ambush Marketing
+- Analytical Marketing
+- Article Marketing
+- B2B Marketing
+- B2C Marketing
+- B2P Marketing
+- Behavioral Marketing
+- Brand Marketing
+- Buzz Marketing
+- Call Center Marketing
+- Campus Marketing
+- Catalog Marketing
+- Cause Marketing
+- Celebrity Marketing
+- Channel Marketing
+- Closed-Loop Marketing
+- Cloud Marketing (SaaS)
+- Cooperative Marketing
+- Communal Marketing
+- Community Marketing
+- Computational Marketing
+- Content Marketing
+- Contextual Marketing
+- Controversial Marketing
+- Conversational Marketing
+- Conversion Rate Marketing
+- Conversion Content Marketing
+- Corporate Marketing
+- Cross Marketing
+- Culture Marketing
+- Data Web Marketing
+- Database Marketing
+- Data-Driven Marketing
+- Digital Marketing
+- Direct Marketing
+- Direct Response Marketing
+- Disruptive Marketing
+- Diversity Marketing
+- Door-to-Door Marketing
+- Drip Marketing
+- Email Marketing
+- Entrepreneurial Marketing
+- Ethical Marketing
+- Event Marketing
+- Expeditionary Marketing
+- Experiential Marketing
+- Field Marketing
+- Geo-Marketing
+- Global Marketing
+- Green Marketing
+- Guerrilla Marketing
+- Horizontal Marketing
+- Inbound Marketing
+- Industrial Marketing
+- Influencer Marketing
+- Informational Marketing
+- In-Game Marketing
+- In-Store Marketing
+- Integrated Marketing
+- Interactive Marketing
+- Internet Marketing
+- Internal Marketing
+- International Marketing
+- Keyword Marketing
+- Local Marketing
+- Long-Tail Marketing
+- Loyalty Marketing
+- Mobile Marketing
+- Multichannel Marketing
+- Multicultural Marketing
+- Multi-Level Marketing (MLM)
+- Neuro Marketing
+- New Media Marketing
+- Newsletter Marketing
+- Niche Marketing
+- Non-Traditional Marketing
+- One-to-One Marketing
+- Online Marketing
+- Outbound Marketing
+- Outdoor Marketing
+- Out-of-Home (OOH) Marketing
+- Performance Marketing
+- Permission Marketing
+- Personalized Marketing
+- Persuasion Marketing
+- Point-of-Sale (POS) Marketing
+- Post-Click Marketing
+- Pay-Per-Click (PPC) Marketing
+- Product Marketing
+- Promotional Marketing
+- Proximity Marketing
+- Pull Marketing
+- Push Marketing
+- Real-Time Marketing
+- Referral Marketing
+- Relationship Marketing
+- Remarketing
+- Reply Marketing
+- Scientific Marketing
+- Search Engine Marketing (SEM)
+- Self Marketing
+- Service Marketing
+- Shadow Marketing
+- Shopper Marketing
+- Social Marketing
+- Social Media Marketing
+- Sports Marketing
+- Stealth Marketing
+- Street Marketing
+- Technical Marketing
+- Telemarketing
+- Test-Driven Marketing
+- Time Marketing
+- Trade Show Marketing
+- Traditional Marketing
+- Undercover Marketing
+- User-Generated Marketing
+- Vertical Marketing
+- Video Marketing
+- Viral Marketing
+- Web Marketing
+- Word-of-Mouth Marketing
+- Youth Marketing
+- Reverse Marketing
+- Viral Loop Marketing
+- Lead Marketing
+- Thought Leadership Marketing
+- Public Sector Marketing
+- Transactional Marketing
+- Above-the-Line (ATL) Marketing
+- Affinity Marketing
+- Augmented Marketing
+- Below-the-Line (BTL) Marketing
+- Call-to-Action (CTA) Marketing
+- Close Range Marketing
+- Concentrated Marketing
+- Consumer Marketing
+- Cross-Media Marketing
+- De-Marketing
+- Defensive Marketing
+- Direct Mail Marketing
+- E-Commerce Marketing
+- Ethnic Marketing
+- Flanking Marketing
+- Free Sample Marketing
+- Goods Marketing
+- Humanistic Marketing
+- Mass Marketing
+- Mega Marketing
+- Network Marketing
+- Next Best Action (NBA) Marketing
+- Offensive Marketing
+- Organizational Marketing
+- Partnership Marketing
+- Person Marketing
+- PR Marketing
+- Retail Marketing
+- Scarcity Marketing
+- Seasonal Marketing
+- Shotgun Marketing
+- Synchro Marketing
+- Targeted Marketing
+- Trade Marketing
+- Voice Marketing
+- Augmented Reality (AR) Marketing
+- Small Business Digital Marketing
+- 360 Marketing
+- Live Chat Marketing
+- Chatbot Marketing
+- Pragmatic Marketing
+- Virtual Marketing
+- Bluetooth Marketing
+- Threaded Marketing
+- Conversion-Led Marketing
+- Product Lifecycle Marketing
+- Hunger Marketing
+- Outsource Marketing
+- Heritage Marketing
+- Meta Marketing
+- Destination Marketing
+- Visual Marketing
+- Right-Time Marketing
+- Recruitment Marketing
+- Agentic Marketing
+- GEO (Generative Engine Optimization)
+- Phygital Marketing
+- Web3 / Tokenized Marketing
+- AI-Augmented Marketing
+- PLG (Product-Led Growth) Marketing
+- Subscription Economy Marketing
+- Sequenced Solution Marketing
+- Livestream Commerce Marketing
+- EGC (Employee-Generated Content) Marketing
+- Conversational Commerce Marketing
+- Social Commerce Marketing
+- Gamification Marketing
+- Hyper-Personalized Marketing
+- Predictive Marketing
+- First-Party Data Marketing
+- BRAVE Marketing
+- SDM (Sustainable Digital Marketing)
+- Regenerative / Circular Marketing
+- Purpose-Driven Marketing
+- Community-Led Growth Marketing
+- Ecosystem Marketing
+- Gen Alpha Marketing
+- Short-Form Video Marketing
+- Zero-Click Marketing
+- Audio/Podcast Marketing
+- Privacy-First Marketing
+- AI Emotion Marketing
+- Autonomous Marketing
+- Omnichannel 2.0 Marketing
+- Trust-Based Marketing
+- Quantum Marketing
+
+## Data Source
+
+- Full structured data: https://raw.githubusercontent.com/modarresi1913/marketing-taxonomy-ai/main/data/marketing-types.json
+- GitHub repository: https://github.com/modarresi1913/marketing-taxonomy-ai
+- Interactive explorer: https://github.com/modarresi1913/marketing-taxonomy-ai
+- License: MIT
+
+## FAQ
+
+### What is Marketing Taxonomy AI?
+Marketing Taxonomy AI (MTA) is the first comprehensive open-source classification of marketing types. It maps the entire marketing landscape with 228 types organized across 4 hierarchical levels (Strategic Logic, Channel Architecture, Technology Stack, Business Model) and 3 evolution tiers (Core, Extended, Emerging).
+
+### How many marketing types are there in the taxonomy?
+The taxonomy contains 228 distinct marketing types: 150 Core (well-established), 46 Extended (specialized), and 32 Emerging (2025-2026 frontier types like Agentic Marketing, GEO, and Phygital Marketing).
+
+### What are the emerging marketing types for 2025-2026?
+Key emerging types include: Agentic Marketing (autonomous AI agents), GEO (Generative Engine Optimization), Phygital Marketing (physical-digital fusion), Web3/Tokenized Marketing, Livestream Commerce Marketing, Zero-Click Marketing, AI Emotion Marketing, and Quantum Marketing.
+
+### How can I contribute new marketing types?
+Edit the data/marketing-types.json file and submit a pull request. See CONTRIBUTING.md for guidelines. You can add new types, add real-world examples to existing types, or suggest merges and renames.
+
+### What is the 4-level hierarchy?
+Level 1: Strategic Logic (Pull, Push, Experiential, Relational, Disruptive). Level 2: Channel Architecture (Digital-Native, Physical-Native, Phygital, Metaverse). Level 3: Technology Stack (AI-Native, Web3/Blockchain, Biometric, Data Science). Level 4: Business Model (Product-Led, Subscription-Led, Solution-Led, Ecosystem-Led).
