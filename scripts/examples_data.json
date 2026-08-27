@@ -1,0 +1,254 @@
+{
+  "2": [
+    {"brand": "Amazon Associates", "description": "World's largest affiliate program with 1M+ creators earning commissions, driving $10B+ in annual sales."},
+    {"brand": "Wirecutter (NYTimes)", "description": "Built entirely on affiliate revenue by testing and recommending products. Acquired by NYT for $30M in 2016."}
+  ],
+  "3": [
+    {"brand": "Spotify Squads", "description": "Uses agile 'Squad' model with 2-week sprints and daily A/B testing for campaign optimization."},
+    {"brand": "Cisco Agile Marketing", "description": "Reduced campaign delivery from 6 months to 3 weeks, increasing output 300%."}
+  ],
+  "4": [
+    {"brand": "Netflix Algorithm", "description": "Recommendation algorithms personalize 80% of content watched, saving $1B/year on retention."},
+    {"brand": "Uber Dynamic Pricing", "description": "Real-time pricing algorithms adjust based on demand, weather, and events."}
+  ],
+  "5": [
+    {"brand": "Nike 2012 Olympics", "description": "'Find Your Greatness' generated 3x more social mentions than official sponsor Adidas."},
+    {"brand": "Paddy Power Stunts", "description": "Famous for ambush stunts during major sports events with giant visible murals."}
+  ],
+  "6": [
+    {"brand": "P&G Analytics", "description": "Analyzes 50M+ data points daily from consumer panels and retail scanners."},
+    {"brand": "LinkedIn Lead Scoring", "description": "Predictive analytics scores B2B leads, improving conversion 30%."}
+  ],
+  "7": [
+    {"brand": "HubSpot Blog", "description": "4-5 articles daily generate 6M+ monthly organic visitors."},
+    {"brand": "Moz SEO Guide", "description": "'Beginner's Guide to SEO' read by millions drives all of Moz's traffic."}
+  ],
+  "8": [
+    {"brand": "Slack B2B", "description": "Grew to 12M DAU through bottom-up word-of-mouth within companies."},
+    {"brand": "Salesforce", "description": "$34B revenue empire built on thought leadership and Dreamforce."}
+  ],
+  "9": [
+    {"brand": "Nike DTC", "description": "Digital sales grew to $4.5B through SNKRS drops and storytelling."},
+    {"brand": "Coca-Cola Share a Coke", "description": "250 names on bottles: 500K+ social posts, 2% sales increase."}
+  ],
+  "10": [
+    {"brand": "Apple Consumerization", "description": "Employee desire for Apple drives enterprise IT decisions."},
+    {"brand": "Google Workspace", "description": "Personal familiarity drives enterprise adoption from bottom up."}
+  ],
+  "11": [
+    {"brand": "Amazon Recommendations", "description": "'Customers who bought this also bought...' drives 35% of revenue."},
+    {"brand": "Spotify Wrapped", "description": "60M+ users share personalized listening summaries every December."}
+  ],
+  "12": [
+    {"brand": "VW Dieselgate", "description": "$33B in fines for false 'clean diesel' claims. Cautionary tale of unethical marketing."}
+  ],
+  "13": [
+    {"brand": "Apple Think Different", "description": "1997 campaign when Apple was near bankruptcy. Stock rose 146% in a year."},
+    {"brand": "Nike Just Do It", "description": "1988 slogan. Revenue grew from $877M to $9.2B in a decade."}
+  ],
+  "14": [
+    {"brand": "Fiji Water", "description": "Strategically placed in celebrities' hands at premium events for luxury positioning."},
+    {"brand": "Red Bull Stratos", "description": "8M live YouTube viewers for space jump, ~$500M in media value."}
+  ],
+  "15": [
+    {"brand": "Zappos Calls", "description": "No time limits on calls, empowered reps build legendary loyalty."},
+    {"brand": "Dish Network", "description": "10K+ outbound agents generate 40% of new subscriber acquisitions."}
+  ],
+  "16": [
+    {"brand": "Red Bull Campus", "description": "Student brand managers on 500+ campuses distribute samples."},
+    {"brand": "Apple Education", "description": "Campus reps at 7,000+ universities capture 18-25 demographic."}
+  ],
+  "17": [
+    {"brand": "IKEA Catalog", "description": "200M+ catalogs in 30+ languages. Once most printed publication worldwide."},
+    {"brand": "Sephora Catalogs", "description": "Personalized beauty catalogs drive 15% of DTC sales."}
+  ],
+  "18": [
+    {"brand": "TOMS One for One", "description": "100M+ shoes donated. Built $625M brand by linking purchase to charity."},
+    {"brand": "Dove Real Beauty", "description": "1.5B+ impressions, 600% sales increase featuring real women."}
+  ],
+  "19": [
+    {"brand": "Clooney x Nespresso", "description": "'What else?' ran 15+ years. Revenue grew from $1B to $5B."},
+    {"brand": "Jordan x Nike", "description": "$5B+ annual Jordan brand. Jordan earned $1.3B personally."}
+  ],
+  "20": [
+    {"brand": "Cisco Partners", "description": "80% of $50B+ revenue through certified channel partners."},
+    {"brand": "Microsoft Partners", "description": "400K+ partners use co-branded campaigns and MDF funds."}
+  ],
+  "21": [
+    {"brand": "Salesforce Pardot", "description": "Tracks ROI from first click to closed deal in closed loop."},
+    {"brand": "Marketo Adobe", "description": "Attribution tracks revenue to specific campaigns and content."}
+  ],
+  "22": [
+    {"brand": "Mailchimp", "description": "12M+ customers. Acquired by Intuit for $12B in 2021."},
+    {"brand": "HubSpot Cloud", "description": "228K+ customers, $2.5B+ revenue through freemium cloud."}
+  ],
+  "23": [
+    {"brand": "GoPro x Red Bull", "description": "Co-branded Stratos jump combined audiences for mutual amplification."},
+    {"brand": "Uber x Spotify", "description": "Riders control music, cross-promoting both services."}
+  ],
+  "24": [
+    {"brand": "Peloton Community", "description": "Shared workouts and leaderboards drive 92% retention."},
+    {"brand": "Strava", "description": "100M+ athletes. Segments create daily communal engagement."}
+  ],
+  "25": [
+    {"brand": "Sephora Beauty Insider", "description": "16M+ members spend 2x more than non-members."},
+    {"brand": "Discord", "description": "200M+ monthly users built through interest communities."}
+  ],
+  "26": [
+    {"brand": "Booking.com", "description": "25,000+ simultaneous A/B tests optimize everything."},
+    {"brand": "Google Ads Auctions", "description": "Process billions of queries daily in milliseconds."}
+  ],
+  "28": [
+    {"brand": "Spotify Only You", "description": "Contextual campaign showing unique listening habits drove sharing."},
+    {"brand": "IBM Weather Ads", "description": "Weather-based ads increase CTR by 40-80%."}
+  ],
+  "29": [
+    {"brand": "Benetton", "description": "Controversial images sparked conversation but also boycotts."},
+    {"brand": "PETA", "description": "Provocative campaigns generate millions in earned media."}
+  ],
+  "30": [
+    {"brand": "Sephora Chatbot", "description": "AI beauty bot booked 11% more makeovers."},
+    {"brand": "Duolingo Duo", "description": "8M+ TikTok followers. Pushy owl drives daily engagement."}
+  ],
+  "31": [
+    {"brand": "Basecamp CRO", "description": "500+ tests improved conversion 1.2% to 6.8% (467% gain)."},
+    {"brand": "Shopify Activation", "description": "Relentless CRO achieves 60%+ merchant activation rates."}
+  ],
+  "32": [
+    {"brand": "Stripe Docs", "description": "Docs-as-marketing converts developers. 3.1M+ businesses."},
+    {"brand": "Ahrefs Blog", "description": "3M+ monthly visits, 8% reader-to-trial conversion."}
+  ],
+  "33": [
+    {"brand": "Microsoft Rebrand 2012", "description": "New logo unified 5+ product divisions under One Microsoft."},
+    {"brand": "Facebook to Meta", "description": "$60M rebrand to signal metaverse pivot."}
+  ],
+  "34": [
+    {"brand": "McDonald's Happy Meal", "description": "Disney/Pokemon toy partnerships drive $3.5B+ annually."},
+    {"brand": "H&M Designer Collabs", "description": "Balenciaga/Versace collections sell out in hours."}
+  ],
+  "35": [
+    {"brand": "Nike Kaepernick", "description": "Generated $6B brand value increase despite boycott threats."},
+    {"brand": "Wikipedia Cultural Moments", "description": "Uses memes and trending topics to drive donations."}
+  ],
+  "36": [
+    {"brand": "LinkedIn Ads", "description": "Professional data targeting achieves 6x higher B2B conversions."},
+    {"brand": "Clearbit", "description": "Real-time firmographic data for personalized landing pages."}
+  ],
+  "37": [
+    {"brand": "Caesars Harrah's", "description": "Customer database tracking every bet increased revenue $1B+ over 5 years."},
+    {"brand": "Tesco Clubcard", "description": "16M+ members, 30% coupon redemption from personalized offers."}
+  ],
+  "38": [
+    {"brand": "Netflix House of Cards", "description": "Greenlit entirely from data on Spacey, Fincher, and political drama fans."},
+    {"brand": "Target Pregnancy", "description": "Identified pregnant customers from patterns. 87% accuracy."}
+  ],
+  "39": [
+    {"brand": "Airbnb", "description": "$75B company built through SEO, social, referrals with minimal traditional ads."},
+    {"brand": "Dollar Shave Club Video", "description": "$4,500 video led to $1B Unilever acquisition."}
+  ],
+  "40": [
+    {"brand": "Lands End", "description": "Pioneered DTC catalog marketing, becoming $1.7B brand."},
+    {"brand": "Amex SMB Saturday", "description": "$20B+ in spending from 10M+ personalized direct mail offers."}
+  ],
+  "41": [
+    {"brand": "ShamWow Infomercials", "description": "Billy Mays direct response TV generated billions in sales."},
+    {"brand": "Wayfair Retargeting", "description": "Product-specific retargeting converts 3-5x better."}
+  ],
+  "42": [
+    {"brand": "Dollar Shave Club", "description": "Disrupted Gillette's 70% share with subscription + humor."},
+    {"brand": "Tesla $0 Ads", "description": "CEO Twitter + referrals drive all growth. $96B revenue, $0 ad spend."}
+  ],
+  "43": [
+    {"brand": "Fenty Beauty", "description": "40 foundation shades: $570M revenue in first 15 months."},
+    {"brand": "Nike Hijab Pro", "description": "First performance hijab by major sports brand, tapping $100B+ market."}
+  ],
+  "44": [
+    {"brand": "SolarCity", "description": "Grew from 0 to $700M revenue through door-to-door solar sales."},
+    {"brand": "Southwestern Company", "description": "120+ year sales training empire built on door-to-door."}
+  ],
+  "45": [
+    {"brand": "Amazon Cart Recovery", "description": "3-part drip recovers 10-15% of abandoned carts."},
+    {"brand": "Pinterest Onboarding", "description": "7-email drip increased activation 40%, retention 25%."}
+  ],
+  "46": [
+    {"brand": "Morning Brew", "description": "4M+ subscribers, $75M valuation. Email as primary channel."},
+    {"brand": "The Hustle", "description": "1.5M+ subs, acquired by HubSpot for ~$27M."}
+  ],
+  "47": [
+    {"brand": "Mailchimp Early", "description": "Grew with zero budget through chimp character guerrilla tactics."},
+    {"brand": "Craigslist", "description": "1B+ monthly views, near-zero marketing spend."}
+  ],
+  "48": [
+    {"brand": "Patagonia", "description": "Anti-consumerism ad increased sales 30%."},
+    {"brand": "The Body Shop", "description": "3,000+ stores on 'Against Animal Testing' ethics."}
+  ],
+  "49": [
+    {"brand": "Dreamforce", "description": "171K attendees, $1.2B+ SF revenue impact."},
+    {"brand": "Apple WWDC", "description": "1M+ applicants for 5K spots. $10B+ stock movements."}
+  ],
+  "50": [
+    {"brand": "Uber City Launches", "description": "Rapid entry to 100+ cities: launch first, regulation later."},
+    {"brand": "Clubhouse Invite-Only", "description": "Scarcity drove 10M+ downloads in a year via FOMO."}
+  ],
+  "51": [
+    {"brand": "IKEA Sleepovers", "description": "100K applicants for 30 spots. Massive PR coverage."},
+    {"brand": "Coca-Cola Experience Zones", "description": "Multi-sensory brand installations in 100+ cities."}
+  ],
+  "52": [
+    {"brand": "Wendy's Twitter", "description": "Sarcastic brand voice: 4M followers, 15% traffic increase."}
+  ],
+  "53": [
+    {"brand": "Costco Samples", "description": "In-store food sampling drives $1.5B+ in additional annual sales."},
+    {"brand": "Red Bull College", "description": "200+ campus reps reach 500K+ students per semester."}
+  ],
+  "54": [
+    {"brand": "Starbucks GIS", "description": "GIS mapping for site selection: 80%+ stores profitable in year one."},
+    {"brand": "Waze Ads", "description": "Geo-targeted ads drive 20%+ lift in store visits."}
+  ],
+  "55": [
+    {"brand": "Coca-Cola Glocalization", "description": "200+ countries with local adaptations of unified global message."},
+    {"brand": "McDonald's Local Menus", "description": "McSpicy Paneer in India, Teriyaki in Japan across 40K+ locations."}
+  ],
+  "56": [
+    {"brand": "Patagonia Worn Wear", "description": "Repair program reinforces brand values, drives new sales."},
+    {"brand": "IKEA Buy Back", "description": "Resells used furniture, generating positive brand sentiment."}
+  ],
+  "58": [
+    {"brand": "Apple x Nike Nike+", "description": "Cross-industry sensor created new product category."},
+    {"brand": "GoPro x Red Bull", "description": "Content serves both brands' audiences simultaneously."}
+  ],
+  "59": [
+    {"brand": "HubSpot Inbound", "description": "Coined 'inbound marketing.' Grew from $0 to $2.5B+ by attracting, not interrupting."},
+    {"brand": "Buffer Transparency", "description": "Published salaries and metrics. 1.5M+ blog readers, 75K+ paying customers."}
+  ],
+  "60": [
+    {"brand": "GE Reports", "description": "Online magazine about jet engines and turbines transformed B2B into media brand."},
+    {"brand": "Caterpillar YouTube", "description": "500K+ subscribers watching massive machines do extreme things."}
+  ],
+  "62": [
+    {"brand": "Moz Whiteboard Friday", "description": "Weekly SEO videos: 10M+ annual visitors, 40% of total revenue."},
+    {"brand": "Google Skillshop", "description": "Free certifications train millions while creating skilled user base."}
+  ],
+  "63": [
+    {"brand": "Fortnite x Travis Scott", "description": "12.3M simultaneous players, $20M+ from in-game cosmetics."},
+    {"brand": "Nikeland (Roblox)", "description": "21M+ visitors to virtual Nike world on Roblox."}
+  ],
+  "64": [
+    {"brand": "Sephora Beauty Tech", "description": "Virtual try-on mirrors drive 2x higher purchase value."},
+    {"brand": "Bose Demo Rooms", "description": "Silent immersive rooms demonstrate noise cancellation. 40% higher conversion."}
+  ],
+  "65": [
+    {"brand": "Old Spice Man", "description": "40M YouTube views, 1.5B impressions, 107% sales increase."},
+    {"brand": "Always #LikeAGirl", "description": "85M+ YouTube views, 4.4B impressions, 14 awards."}
+  ],
+  "66": [
+    {"brand": "Spotify Wrapped", "description": "60M+ users engage annually in the brand's biggest marketing moment."},
+    {"brand": "Burger King Whopper Detour", "description": "Go within 600ft of McDonald's for 1-cent Whopper. 1.5M+ app downloads."}
+  ],
+  "67": [
+    {"brand": "Alibaba Singles Day", "description": "$84B in 2023 through internet marketing combining livestream and social."},
+    {"brand": "Wayfair", "description": "$12B home goods brand built through programmatic ads, no physical stores."}
+  ],
+  "68": [
+    {"brand": "Google Culture", "description": "Employee NPS of 74 (vs. industry 32) turns workers into brand ambassadors."},
+    {"brand": "Southwest Warriors", "description": 
